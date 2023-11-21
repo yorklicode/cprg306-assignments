@@ -33,6 +33,10 @@ export default function Home() {
       <Link href="/week8">
         Week 8
       </Link>
+      <br></br>
+      <Link href="/week10">
+        Week 10
+      </Link>
 
     </main>
   )
